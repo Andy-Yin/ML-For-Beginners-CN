@@ -1,2 +1,2 @@
-# ML.NET-Learning
-ml.net 学习
+# ML-For-Beginners中文翻译
+ML-For-Beginners中文翻译
