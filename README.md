@@ -44,7 +44,7 @@
 
 ## 教学策略
 
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based** and that it includes **frequent quizzes**. In addition, this curriculum has a common **theme** to give it cohesion.
+在保证教程具有很深的聚焦性的基础上，教程还有两个重要的学习理念，分别为确保你真正的参与到项目实操以及频繁的测验。
 
 By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12 week cycle. This curriculum also includes a postscript on real-world applications of ML, which can be used as extra credit or as a basis for discussion.
 
@@ -93,17 +93,17 @@ By ensuring that the content aligns with projects, the process is made more enga
 |      24       |                 Help Peter avoid the wolf! 🐺                  | [Reinforcement learning](8-Reinforcement/README.md) | Reinforcement learning Gym                                                                                                      |       [lesson](8-Reinforcement/2-Gym/README.md)       |     Dmitry     |
 |  Postscript   |            Real-World ML scenarios and applications            |      [ML in the Wild](9-Real-World/README.md)       | Interesting and revealing real-world applications of classical ML                                                               |    [lesson](9-Real-World/1-Applications/README.md)    |      Team      |
 
-## 离线查看
+## 离线学习
 
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+通过[Docsify](https://docsify.js.org/#/)可以离线学习本课程。首先Fork 这个repo，安装[Docsify] (https://docsify.js.org/#/quickstart)工具到自己的电脑上，在repo的根目录里执行"docsify server"命令， 通过"localhost:3000"就可以访问你本地的环境。
 
 ## PDFs
 
-Find a pdf of the curriculum with links [here](pdf/readme.pdf).
+可以通过此[连接](pdf/readme.pdf)下载本教程的PDF版本.
 
-## 如需帮助!
+## 参与贡献!
 
-Would you like to contribute a translation? Please read our [translation guidelines](TRANSLATIONS.md) and add input [here](https://github.com/microsoft/ML-For-Beginners/issues/71).
+如果你想参与贡献翻译，请阅读 [翻译指南](TRANSLATIONS.md) 并在[这里](https://github.com/microsoft/ML-For-Beginners/issues/71)填写.
 
 ## 其他课程
 
