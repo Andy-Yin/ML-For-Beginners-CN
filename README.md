@@ -46,24 +46,26 @@
 
 在保证教程具有很深的聚焦性的基础上，教程还有两个重要的学习理念，分别为确保你真正的参与到项目实操以及频繁的测验。
 
-By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented. In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12 week cycle. This curriculum also includes a postscript on real-world applications of ML, which can be used as extra credit or as a basis for discussion.
+通过确保内容与项目一致，这个过程对学生来说更有吸引力，概念的留存也会增强。 这个课程设计灵活、有趣，可以全部或部分学习。 项目开始时很小，在12周周期结束时变得越来越复杂。   
 
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), and [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
+为了让学习更有吸引力，同时学完后概念能记得更深刻，课程的内容在设计上和项目是一致的。 此外，课前的小测验可以确定学生学习某一主题的意图，而课后的小测验则可以确保进一步的记忆。本课程还包括一个关于ML的实际应用的后记，可以学有余力的学生继续学习的基础。
+
+> 可以在[规范](CODE_OF_CONDUCT.md)、[提交贡献](CONTRIBUTING.md)以及[参与翻译](TRANSLATIONS.md)这三个连接找到你对应感兴趣的内容，欢迎随时提供反馈。
 
 ## 每节课的包含内容:
 
-- optional sketchnote
-- optional supplemental video
-- pre-lecture warmup quiz
-- written lesson
-- for project-based lessons, step-by-step guides on how to build the project
-- knowledge checks
-- a challenge
-- supplemental reading
-- assignment
-- post-lecture quiz
+- （可选）sketchnote
+- （可选）视频
+- 课前小测试
+- 编写课程
+- 对于基于项目的课程，将逐步指导如何构建项目
+- 知识点检查
+- 一个小挑战
+- 补充阅读
+- 作业
+- 课后测试
 
-> **A note about quizzes**: All quizzes are contained [in this app](https://jolly-sea-0a877260f.azurestaticapps.net), for 50 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder.
+> **关于小测试**: 所有的小测试都在这个[网站](https://jolly-sea-0a877260f.azurestaticapps.net)上, 共50个测试，每个测试包含三道题目。 这些测试的连接都包含在课程中，当然你也可以通过在本地文件夹"quiz-app"文件夹里操作说明在本地运行查看。
 
 | Lesson Number |                             Topic                              |                   Lesson Grouping                   | Learning Objectives                                                                                                             |                     Linked Lesson                     |     Author     |
 | :-----------: | :------------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------: | :------------: |
