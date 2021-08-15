@@ -1,11 +1,11 @@
-# Interview a data scientist
+# 采访一位数据科学家
 
-## Instructions
+## 说明
 
-In your company, in a user group, or among your friends or fellow students, talk to someone who works professionally as a data scientist. Write a short paper (500 words) about their daily occupations. Are they specialists, or do they work 'full stack'?
+在你的公司、你所在的社群、或者在你的朋友和同学中，找到一位从事数据科学专业工作的人，与他或她交流一下。写一篇关于他们工作日常的小短文（500字左右）。他们是专家，还是说他们是“全栈”开发者？
 
-## Rubric
+## 评判标准
 
-| Criteria | Exemplary                                                                            | Adequate                                                           | Needs Improvement     |
+| 标准 | 优秀                                                                            | 中规中矩                                                           | 仍需努力     |
 | -------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------- |
-|          | An essay of the correct length, with attributed sources, is presented as a .doc file | The essay is poorly attributed or shorter than the required length | No essay is presented |
+|          | 提交一篇清晰描述了职业属性且字数符合规范的word文档 | 提交的文档职业属性描述得不清晰或者字数不合规范 | 啥都没有交 |

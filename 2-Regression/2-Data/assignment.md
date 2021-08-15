@@ -1,8 +1,9 @@
-# Exploring Visualizations
+# 探索数据可视化
 
-There are several different libraries that are available for data visualization. Create some visualizations using the Pumpkin data in this lesson with matplotlib and seaborn in a sample notebook. Which libraries are easier to work with?
-## Rubric
+有好几个库都可以进行数据可视化。用 matplotlib 和 seaborn 对本课中涉及的 Pumpkin 数据集创建一些数据可视化的图标。并思考哪个库更容易使用？
 
-| Criteria | Exemplary | Adequate | Needs Improvement |
+## 评判标准
+
+| 标准 | 优秀 | 中规中矩 | 仍需努力 |
 | -------- | --------- | -------- | ----------------- |
-|          | A notebook is submitted with two explorations/visualizations         |   A notebook is submitted with one explorations/visualizations       |  A notebook is not submitted                 |
+|          | 提交了含有两种探索可视化方法的notebook工程文件         |   提交了只包含有一种探索可视化方法的notebook工程文件       |  没提交  notebook 工程文件                 |

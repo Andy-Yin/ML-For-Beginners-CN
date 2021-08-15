@@ -1,11 +1,11 @@
-# Create a timeline
+# 建立一个时间轴
 
-## Instructions
+## 说明
 
-Using [this repo](https://github.com/Digital-Humanities-Toolkit/timeline-builder), create a timeline of some aspect of the history of algorithms, mathematics, statistics, AI, or ML, or a combination of these. You can focus on one person, one idea, or a long timespan of thought. Make sure to add multimedia elements.
+使用这个 [仓库](https://github.com/Digital-Humanities-Toolkit/timeline-builder)，创建一个关于算法、数学、统计学、人工智能、机器学习的某个方面或者可以综合多个以上学科来讲。你可以着重介绍某个人，某个想法，或者一个经久不衰的思想。请确保添加了多媒体元素在你的时间线中。
 
-## Rubric
+## 评判标准
 
-| Criteria | Exemplary                                         | Adequate                                | Needs Improvement                                                |
-| -------- | ------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
-|          | A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
+| 标准         | 优秀                               | 中规中矩               | 仍需努力                                    |
+| ------------ | ---------------------------------- | ---------------------- | ------------------------------------------ |
+|              | 有一个用 GitHub page 展示的 timeline | 代码还不完整并且没有部署 | 时间线不完整，没有经过充分的研究，并且没有部署 |

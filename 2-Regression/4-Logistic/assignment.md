@@ -1,10 +1,11 @@
-# Retrying some Regression
+# 再探回归模型
 
-## Instructions
+## 说明
 
-In the lesson, you used a subset of the pumpkin data. Now, go back to the original data and try to use all of it, cleaned and standardized, to build a Logistic Regression model.
-## Rubric
+在这节课中，你使用了 pumpkin 数据集的子集。现在，让我们回到原始数据，并尝试使用所有数据。经过了数据清理和标准化，建立一个逻辑回归模型。
 
-| Criteria | Exemplary                                                               | Adequate                                                     | Needs Improvement                                           |
+## 评判标准
+
+| 标准 | 优秀                                                               | 中规中矩                                                     | 仍需努力                                           |
 | -------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
-|          | A notebook is presented with a well-explained and well-performing model | A notebook is presented with a model that performs minimally | A notebook is presented with a sub-performing model or none |
+|          | 用notebook呈现了一个解释性和性能良好的模型 | 用notebook呈现了一个性能一般的模型 | 用notebook呈现了一个性能差的模型或根本没有模型 |
