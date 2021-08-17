@@ -23,12 +23,12 @@
 
 **作为学生**, fork整个repo到自己的github账号里，自己活着和团队协作完成里边的练习:
 
-- 完成课前测试。Start with a pre-lecture quiz.
-- 阅读课程内容，并及时停下来思考、检测自己已经学习的内容。Read the lecture and complete the activities, pausing and reflecting at each knowledge check.
-- 课程代码都在每个项目的'/solution'文件夹下，但是我们还是建议所有人在理解的基础上自己创建工程来实践，而不是直接运行现有的代码。Try to create the projects by comprehending the lessons rather than running the solution code; however that code is available in the `/solution` folders in each project-oriented lesson.
-- 完成课后测试Take the post-lecture quiz.
-- 完成挑战Complete the challenge.
-- 完成作业Complete the assignment.
+- 完成课前测试。
+- 阅读课程内容，并及时停下来思考、检测自己已经学习的内容。
+- 课程代码都在每个项目的'/solution'文件夹下，但是我们还是建议所有人在理解的基础上自己创建工程来实践，而不是直接运行现有的代码。
+- 完成课后测试。
+- 完成挑战。
+- 完成作业。
 - 当完成课程后，访问 [Discussion board](https://github.com/microsoft/ML-For-Beginners/discussions)并通过PAT标注记录当前学习情况（此块不准确）。 我们通过填写PAT这个表格，来完成我们学习的评估。当然我们参与到其他的PAT中，从而可以和其他人一块学习。
 
 > 进一步的学习，我们推荐您查看 [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) 的内容和学习路径
