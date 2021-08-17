@@ -1,22 +1,22 @@
-# Build a web app to use your ML model
+# 用ML模型来构建一个web 应用程序（本篇是我自己翻译的^_^）
 
-In this section of the curriculum, you will be introduced to an applied ML topic: how to save your Scikit-learn model as a file that can be used to make predictions within a web application. Once the model is saved, you'll learn how to use it in a web app built in Flask. You'll first create a model using some data that's all about UFO sightings! Then, you'll build a web app that will allow you to input a number of seconds with a latitude and a longitude value to predict which country reported seeing a UFO. 
+在本节课程中，将介绍如何将你的Scikit-learn模型保存为文件，以便在web应用程序中进行预测。 保存模型后，你将学习如何在Flask中构建的web应用程序中使用它。 首先使用UFO目击数据创建一个模型， 然后，构建一个web应用程序，你输入带有纬度和经度值的秒数，以预测哪个国家报告看到了不明飞行物。  
 
-![UFO Parking](images/ufo.jpg)
+![UFO 目击数据](images/ufo.jpg)
 
-Photo by <a href="https://unsplash.com/@mdherren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Herren</a> on <a href="https://unsplash.com/s/photos/ufo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+图片提供 <a href="https://unsplash.com/@mdherren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Herren</a> 来自<a href="https://unsplash.com/s/photos/ufo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-## Lessons
+## 课程
 
-1. [Build a Web App](1-Web-App/README.md)
+1. [创建一个 Web 应用](1-Web-App/README.md)
 
 ## Credits
 
-"Build a Web App" was written with ♥️ by [Jen Looper](https://twitter.com/jenlooper). 
+"创建一个 Web 应用" 作者是 [Jen Looper](https://twitter.com/jenlooper)。
 
-♥️ The quizzes were written by Rohan Raj.
+测试作者是 Rohan Raj.
 
-The dataset is sourced from [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings). 
+数据集来源 [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings)。
 
-The web app architecture was suggested in part by [this article](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4) and [this repo](https://github.com/abhinavsagar/machine-learning-deployment) by Abhinav Sagar.
+web应用的框架来自Abhinav Sagar 的部分建议，分别为[这篇文章](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4) and [代码库](https://github.com/abhinavsagar/machine-learning-deployment) 。
