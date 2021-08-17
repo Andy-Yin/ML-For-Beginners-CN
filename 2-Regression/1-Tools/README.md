@@ -196,7 +196,7 @@ s1 tc：T细胞（一种白细胞）
 
 ## 复习与自学 
 
-在本教程中，你使用了简单线性回归，而不是单变量或多元线性回归。阅读一些关于这些方法之间差异的信息，或查看[此视频](https://www.coursera.org/lecture/quantifying-relationships-regression-models/linear-vs-nonlinear-categorical-variables-ai2Ef) 
+在本教程中，你使用了简单线性回归，而不是单变量或多元线性回归。阅读一些关于这些方法之间差异的信息，或查看[此视频](https://www.coursera.org/lecture/quantifying-relationships-regression-models/linear-vs-nonlinear-categorical-variables-ai2Ef)。
 
 阅读有关回归概念的更多信息，并思考这种技术可以回答哪些类型的问题。用这个[教程](https://docs.microsoft.com/learn/modules/train-evaluate-regression-models?WT.mc_id=academic-15963-cxa)加深你的理解。 
 
