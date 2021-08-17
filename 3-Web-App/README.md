@@ -11,11 +11,11 @@
 
 1. [创建一个 Web 应用](1-Web-App/README.md)
 
-## Credits
+## 致谢
 
 "创建一个 Web 应用" 作者是 [Jen Looper](https://twitter.com/jenlooper)。
 
-测试作者是 Rohan Raj.
+“小测试作者”是 Rohan Raj.
 
 数据集来源 [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings)。
 
