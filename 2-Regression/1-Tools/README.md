@@ -24,13 +24,13 @@
 
 1. **安装 Python**。确保你的计算机上安装了[Python](https://www.python.org/downloads/)。你将在许多数据科学和机器学习任务中使用 Python。大多数计算机系统已经安装了Python。也有一些有用的[Python编码包](https://code.visualstudio.com/learn/educations/installers?WT.mc_id=academic-15963-cxa)可用于简化某些用户的设置。 
 
-   然而，Python的某些用法需要一个版本的软件，而其他用法则需要另一个不同的版本。 因此，在[虚拟环境](https://docs.python.org/3/library/venv.html)中工作很有用。
+   然而，Python的某些用法需要一个特定的版本，而其他用法则需要另一个不同的版本。 因此，在[虚拟环境](https://docs.python.org/3/library/venv.html)中工作很有用。
 
 2. **安装 Visual Studio Code**。确保你的计算机上安装了Visual Studio Code。按照这些说明[安装 Visual Studio Code](https://code.visualstudio.com/)进行基本安装。在本课程中，你将在Visual Studio Code中使用Python，因此你可能想复习如何[配置 Visual Studio Code](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-15963-cxa)用于Python开发。 
 
    > 通过学习这一系列的 [学习模块](https://docs.microsoft.com/users/jenlooper-2911/collections/mp1pagggd5qrq7?WT.mc_id=academic-15963-cxa)熟悉Python
 
-3. **按照[这些说明]安装Scikit learn**(https://scikit-learn.org/stable/install.html )。由于你需要确保使用Python3，因此建议你使用虚拟环境。注意，如果你是在M1 Mac上安装这个库，在上面链接的页面上有特别的说明。
+3. **按照[说明]安装Scikit learn**(https://scikit-learn.org/stable/install.html )。由于你需要确保使用Python3，因此建议你使用虚拟环境。注：上面链接的页面上有针对在Mac（M1芯片）安装说明。
 
 4. **安装Jupyter Notebook**。你需要[安装Jupyter包](https://pypi.org/project/jupyter/)。
 
