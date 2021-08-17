@@ -1,6 +1,6 @@
 # 使用Scikit-learn构建回归模型：准备和可视化数据 
 
-> ![数据可视化信息图](../images/data-visualization.png)
+> ![数据可视化信息图](images/data-visualization.png)
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
 
 ## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/11/)
@@ -164,7 +164,7 @@
     plt.show()
     ```
 
-    ![显示价格与月份关系的散点图](../images/scatterplot.png)
+    ![显示价格与月份关系的散点图](images/scatterplot.png)
 
     这是一个有用的图吗？有什么让你吃惊的吗？
 
@@ -181,7 +181,7 @@
     plt.ylabel("Pumpkin Price")
     ```
 
-    ![显示价格与月份关系的柱状图](../images/barchart.png)
+    ![显示价格与月份关系的柱状图](images/barchart.png)
 
     这是一个更有用的数据可视化！似乎表明南瓜的最高价格出现在9月和10月。这符合你的期望吗？为什么？为什么不？
 

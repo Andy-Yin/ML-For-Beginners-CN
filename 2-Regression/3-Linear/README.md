@@ -1,6 +1,6 @@
 # 使用Scikit-learn构建回归模型：两种方式的回归
 
-![线性与多项式回归信息图](../images/linear-polynomial.png)
+![线性与多项式回归信息图](images/linear-polynomial.png)
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
 ## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/13/)
 ### 介绍 
@@ -49,13 +49,13 @@
 >
 > `X`是“解释变量”。`Y`是“因变量”。直线的斜率是`b`，`a`是y轴截距，指的是`X = 0`时`Y`的值。
 >
->![计算斜率](../images/slope.png)
+>![计算斜率](images/slope.png)
 >
 > 首先，计算斜率`b`。作者[Jen Looper](https://twitter.com/jenlooper)
 >
 > 换句话说，参考我们的南瓜数据的原始问题：“按月预测每蒲式耳南瓜的价格”，`X`指的是价格，`Y`指的是销售月份。
 >
->![完成等式](../images/calculation.png)
+>![完成等式](images/calculation.png)
 >
 > 计算Y的值。如果你支付大约4美元，那一定是四月！作者[Jen Looper](https://twitter.com/jenlooper)
 >
@@ -181,7 +181,7 @@ lin_pumpkins
 
    plt.show()
    ```
-   ![散点图显示包装与价格的关系](../images/linear.png)
+   ![散点图显示包装与价格的关系](images/linear.png)
 
 4. 针对假设的品种测试模型：
 
@@ -228,7 +228,7 @@ lin_pumpkins
    corr.style.background_gradient(cmap='coolwarm')
    ```
    这段代码创建了一个热图:
-   ![显示数据相关性的热图](../images/heatmap.png)
+   ![显示数据相关性的热图](images/heatmap.png)
 
 查看此图表，你可以直观地看到Package和Price之间的良好相关性。所以你应该能够创建一个比上一个更好的模型。
 
@@ -278,7 +278,7 @@ Scikit-learn包含一个用于构建多项式回归模型的有用API - `make_pi
 
 你通过调用`pd.DataFrame`创建了一个新的dataframe。然后通过调用`sort_values()`对值进行排序。最后你创建了一个多项式图：
 
-![显示包装与价格关系的多项式图](../images/polynomial.png)
+![显示包装与价格关系的多项式图](images/polynomial.png)
 
 你可以看到更适合你的数据的曲线。
 

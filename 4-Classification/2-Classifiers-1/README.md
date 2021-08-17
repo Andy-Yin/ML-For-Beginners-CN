@@ -99,7 +99,7 @@ Scikit_learn将分类任务归在了监督学习类别中，在这个类别中�
 
 那么，你应该如何从中选择分类器呢？一般来说，可以选择多个分类器并对比他们的运行结果。Scikit-learn提供了各种算法（包括KNeighbors、 SVC two ways、 GaussianProcessClassifier、 DecisionTreeClassifier、 RandomForestClassifier、 MLPClassifier、 AdaBoostClassifier、 GaussianNB以及QuadraticDiscrinationAnalysis）的[对比](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)，并且将结果进行了可视化的展示：
 
-![各分类器比较](../images/comparison.png)
+![各分类器比较](images/comparison.png)
 > 图表来源于Scikit-learn的官方文档
 
 > AutoML通过在云端运行这些算法并进行了对比，非常巧妙地解决的算法选择的问题，能帮助你根据数据集的特点来选择最佳的算法。试试点击[这里](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa)了解更多。
@@ -108,7 +108,7 @@ Scikit_learn将分类任务归在了监督学习类别中，在这个类别中�
 
 比起无脑地猜测，你可以下载这份[机器学习小抄（cheatsheet）](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa)。这里面将各算法进行了比较，能更有效地帮助我们选择算法。根据这份小抄，我们可以找到要完成本课程中涉及的多类型的分类任务，可以有以下这些选择：
 
-![多类型问题作弊表](../images/cheatsheet.png)
+![多类型问题作弊表](images/cheatsheet.png)
 > 微软算法小抄中部分关于多类型分类任务可选算法
 
 ✅ 下载这份小抄，并打印出来，挂在你的墙上吧！
@@ -139,7 +139,7 @@ Scikit_learn将分类任务归在了监督学习类别中，在这个类别中�
 
 Scikit-learn提供了以下这个表格来解释各种solver是如何应对的不同的数据结构所带来的不同的挑战的:
 
-![solvers](../images/solvers.png)
+![solvers](images/solvers.png)
 
 ## 练习 - 分割数据
 

@@ -344,4 +344,3 @@ print(model.predict([[50,44,-12]]))
 
 [尝试不同的模型](../assignment.md)
 
-

@@ -1,6 +1,6 @@
 # 开始使用Python和Scikit学习回归模型
 
-![回归](../../../sketchnotes/ml-regression.png)
+![回归](../../sketchnotes/ml-regression.png)
 
 > 作者[Tomomi Imura](https://www.twitter.com/girlie_mac)
 
@@ -60,7 +60,7 @@ Notebooks是一个交互式环境，允许开发人员编写代码并添加注�
     hello notebook
     ```
 
-![打开notebook的VS Code](../images/notebook.png)
+![打开notebook的VS Code](images/notebook.png)
 
 你可以为你的代码添加注释，以便notebook可以自描述。
 
@@ -182,7 +182,7 @@ s1 tc：T细胞（一种白细胞）
     plt.show()
     ```
 
-   ![显示糖尿病周围数据点的散点图](../images/scatterplot.png)
+   ![显示糖尿病周围数据点的散点图](images/scatterplot.png)
 
    ✅ 想一想这里发生了什么。一条直线穿过许多小数据点，但它到底在做什么？你能看到你应该如何使用这条线来预测一个新的、未见过的数据点对应的y轴值吗？尝试用语言描述该模型的实际用途。
 
