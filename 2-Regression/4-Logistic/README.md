@@ -39,6 +39,7 @@
 
 ![南瓜分类模型](../images/pumpkin-classifier.png)
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
+
 ### 其他分类
 
 还有其他类型的逻辑回归，包括多项和有序：
