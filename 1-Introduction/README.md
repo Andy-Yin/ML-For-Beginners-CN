@@ -7,10 +7,10 @@
   
 ### 课程安排
 
-1. [机器学习简介](../1-intro-to-ML/translations/README.md)
-1. [机器学习的历史](../2-history-of-ML/translations/README.md)
-1. [机器学习中的公平性](../3-fairness/translations/README.md)
-1. [机器学习技术](../4-techniques-of-ML/translations/README.md)
+1. [机器学习简介](../1-intro-to-ML/README.md)
+1. [机器学习的历史](../2-history-of-ML/README.md)
+1. [机器学习中的公平性](../3-fairness/README.md)
+1. [机器学习技术](../4-techniques-of-ML/README.md)
 ### 致谢
 
 "机器学习简介"由 [Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan), [Ornella Altunyan](https://twitter.com/ornelladotcom) 及 [Jen Looper](https://twitter.com/jenlooper)，共同倾 ♥️ 而作
