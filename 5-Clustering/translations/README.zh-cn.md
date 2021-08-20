@@ -15,8 +15,8 @@
 > 这里有一些有用的低代码工具可以帮助您了解如何使用聚类模型。尝试 [Azure ML for this task](https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/?WT.mc_id=academic-15963-cxa)
 ## 课程安排
 
-1. [介绍聚类](../1-Visualize/translations/README.zh-cn.md)
-2. [K-Means聚类](../2-K-Means/translations/README.zh-cn.md)
+1. [介绍聚类](../1-Visualize/translations/README.md)
+2. [K-Means聚类](../2-K-Means/translations/README.md)
 ## 致谢
 
 这些课程由Jen Looper在🎶上撰写，并由 [Rishit Dagli](https://rishit_dagli) 和[Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan)进行了有帮助的评审。

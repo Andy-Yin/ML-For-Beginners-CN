@@ -333,4 +333,4 @@
 
 ## 作业
 
-[研究用于聚类的其他可视化](./assignment.zh-cn.md)
+[研究用于聚类的其他可视化](./assignment.md)

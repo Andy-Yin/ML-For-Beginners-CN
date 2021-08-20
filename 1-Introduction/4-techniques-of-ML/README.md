@@ -105,4 +105,4 @@
 
 ## 任务
 
-[采访一名数据科学家](assignment.zh-cn.md)
+[采访一名数据科学家](assignment.md)

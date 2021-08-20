@@ -249,5 +249,5 @@ K-Means 聚类过程[分三步执行](https://scikit-learn.org/stable/modules/cl
 
 ## 作业
 
-[尝试不同的聚类方法](./assignment.zh-cn.md)
+[尝试不同的聚类方法](./assignment.md)
 

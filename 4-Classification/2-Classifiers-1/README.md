@@ -7,7 +7,7 @@
 ## [课前测验](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/21/)
 # 准备工作
 
-假如你已经完成了[课程1](../../1-Introduction/translations/README.zh-cn.md), 确保在根目录的`/data`文件夹中有 _cleaned_cuisines.csv_ 这份文件来进行接下来的四节课程。
+假如你已经完成了[课程1](../../1-Introduction/translations/README.md), 确保在根目录的`/data`文件夹中有 _cleaned_cuisines.csv_ 这份文件来进行接下来的四节课程。
 
 ## 练习 - 预测某国的菜品
 

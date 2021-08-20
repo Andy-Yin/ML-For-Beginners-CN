@@ -211,4 +211,4 @@
 
 ## 任务
 
-[探索Fairlearn](assignment.zh-cn.md) 
+[探索Fairlearn](assignment.md) 
