@@ -2,7 +2,8 @@
 
 ![线性与多项式回归信息图](images/linear-polynomial.png)
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
-## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/13/)
+## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/13/)  
+
 ### 介绍 
 
 到目前为止，你已经通过从我们将在本课程中使用的南瓜定价数据集收集的样本数据探索了什么是回归。你还使用Matplotlib对其进行了可视化。
