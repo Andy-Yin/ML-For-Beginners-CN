@@ -10,7 +10,7 @@
 
 欢迎开始这个针对初学者的机器学习课程！无论你是初次接触这个领域，或者你是一个某一领域机器学习的专家，我们都欢迎你和我们一块从这个课程开始。这门课程是一个很好的开始，我们希望你能学习、评价并能[反馈](https://github.com/microsoft/ML-For-Beginners/discussions)给我们.
 
-[![机器学习简介](https://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://youtu.be/h0e2HAPTGF4 "Introduction to ML")
+[![机器学习简介](https://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.bilibili.com/video/bv17U4y1E7rR "Introduction to ML")
 
 > 🎥 点击播放视频: MIT's John Guttag 的机器学习介绍
 ### 开始机器学习
