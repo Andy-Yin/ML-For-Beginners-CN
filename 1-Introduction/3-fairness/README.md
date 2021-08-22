@@ -23,7 +23,7 @@
 
 按照此[学习路径](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)了解有关负责任 AI 的更多信息
 
-[![微软对负责任人工智能的做法](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "微软对负责任人工智能的做法")
+[![微软对负责任人工智能的做法](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://www.bilibili.com/video/BV1Yq4y1D7be/ "微软对负责任人工智能的做法")
 
 > 🎥 点击上图观看视频：微软对负责任人工智能的做法
 
