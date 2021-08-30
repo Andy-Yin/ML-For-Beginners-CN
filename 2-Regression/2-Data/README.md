@@ -1,6 +1,6 @@
 # 使用Scikit-learn构建回归模型：准备和可视化数据  
 
-> ![数据可视化信息图](images/data-visualization.png)
+> ![数据可视化信息图](images/data-visualization.png)  
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
 
 ## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/11/)

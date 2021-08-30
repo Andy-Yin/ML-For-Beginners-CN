@@ -23,7 +23,7 @@
 
 按照此[学习路径](https://docs.microsoft.com/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)了解有关负责任 AI 的更多信息
 
-[![微软对负责任人工智能的做法](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://youtu.be/dnC8-uUZXSc "微软对负责任人工智能的做法")
+[![微软对负责任人工智能的做法](https://img.youtube.com/vi/dnC8-uUZXSc/0.jpg)](https://www.bilibili.com/video/BV1Yq4y1D7be/ "微软对负责任人工智能的做法")
 
 > 🎥 点击上图观看视频：微软对负责任人工智能的做法
 
@@ -75,7 +75,7 @@
 
 一种图像标记技术，臭名昭著地将深色皮肤的人的图像错误地标记为大猩猩。错误的标签是有害的，不仅仅是因为这个系统犯了一个错误，而且它还特别使用了一个长期以来被故意用来诋毁黑人的标签。
 
-[![AI: 我不是女人吗？](https://img.youtube.com/vi/QxuyfWoVV98/0.jpg)](https://www.youtube.com/watch?v=QxuyfWoVV98 "AI, 我不是女人吗？")
+[![AI: 我不是女人吗？](https://img.youtube.com/vi/QxuyfWoVV98/0.jpg)](https://www.bilibili.com/video/BV12y4y1376S/ "AI, 我不是女人吗？")
 > 🎥 点击上图观看视频：AI，我不是女人吗 - 一场展示AI种族主义诋毁造成的伤害的表演
 
 ### 代表性过高或过低
