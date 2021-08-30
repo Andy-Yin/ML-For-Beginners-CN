@@ -330,4 +330,4 @@ Scikit-learn包含一个用于构建多项式回归模型的有用API - `make_pi
 
 ## 任务 
 
-[构建模型](../assignment.md)
+[构建模型](assignment.md)
